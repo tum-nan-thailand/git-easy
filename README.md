@@ -90,6 +90,3 @@ git config --global user.email "your.email@example.com"
 
 หากคุณมีคำถามหรือข้อเสนอแนะ สามารถติดต่อเราได้ที่ [punthaweeso@gmail.com](mailto:your.punthaweeso@gmail.com) หรือสร้าง Issue ใน repository นี้
 
----
-
-<p align="center">พัฒนาด้วย ❤️ เพื่อชุมชนนักพัฒนาชาวไทย</p>
